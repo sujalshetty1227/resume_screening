@@ -1,0 +1,947 @@
+{
+  "job_description": {
+    "title": "Machine Learning Engineer (NLP)",
+    "required_skills": [
+      "docker",
+      "git",
+      "machine learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "rest api",
+      "sql",
+      "transformers"
+    ],
+    "preferred_skills": [
+      "aws",
+      "kubernetes",
+      "mlops",
+      "rag",
+      "spark",
+      "vector database"
+    ],
+    "min_years_experience": 3.0,
+    "min_degree_level": 2
+  },
+  "candidate_count": 14,
+  "candidates": [
+    {
+      "rank": 1,
+      "recommendation": "Strong match - interview",
+      "profile": {
+        "candidate_id": "C008",
+        "name": "Priya Raghavan",
+        "email": "priya.raghavan@email.com",
+        "phone": "+91 98450 11234",
+        "years_experience": 5.0,
+        "degree_level": 3,
+        "degree_field": "Computer Science",
+        "skills": [
+          "airflow",
+          "aws",
+          "ci/cd",
+          "docker",
+          "git",
+          "linux",
+          "machine learning",
+          "mlops",
+          "nlp",
+          "python",
+          "pytorch",
+          "rag",
+          "rest api",
+          "scikit-learn",
+          "sql",
+          "testing",
+          "transformers",
+          "vector database"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "priya_raghavan.pdf",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.9369,
+          "semantic": 1.0,
+          "experience": 0.875,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.9446,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [],
+        "matched_preferred": [
+          "aws",
+          "mlops",
+          "rag",
+          "vector database"
+        ],
+        "required_coverage": 1.0,
+        "reasoning": "Matched 9/9 required skills (all present); 4/6 preferred skills; 5y experience vs 3y required; semantic similarity to JD 1.00.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 2,
+      "recommendation": "Strong match - interview",
+      "profile": {
+        "candidate_id": "C004",
+        "name": "Elena Petrova",
+        "email": "elena.petrova@email.com",
+        "phone": "+49 151 2233 4455",
+        "years_experience": 9.0,
+        "degree_level": 3,
+        "degree_field": "Computer Science",
+        "skills": [
+          "airflow",
+          "aws",
+          "docker",
+          "gcp",
+          "git",
+          "kubernetes",
+          "linux",
+          "machine learning",
+          "mlops",
+          "nlp",
+          "python",
+          "pytorch",
+          "recommendation systems",
+          "scala",
+          "spark",
+          "sql",
+          "statistics",
+          "tensorflow",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "elena_petrova.pdf",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.8468,
+          "semantic": 0.6031,
+          "experience": 1.0,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.8435,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [
+          "rest api"
+        ],
+        "matched_preferred": [
+          "aws",
+          "kubernetes",
+          "mlops",
+          "spark"
+        ],
+        "required_coverage": 0.8889,
+        "reasoning": "Matched 8/9 required skills (missing: rest api); 4/6 preferred skills; 9y experience vs 3y required; semantic similarity to JD 0.60.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 3,
+      "recommendation": "Strong match - interview",
+      "profile": {
+        "candidate_id": "C002",
+        "name": "Arjun Menon",
+        "email": "arjun.menon@email.com",
+        "phone": "+91 99470 55321",
+        "years_experience": 5.0,
+        "degree_level": 2,
+        "degree_field": "Computer Science And Engineering",
+        "skills": [
+          "aws",
+          "ci/cd",
+          "docker",
+          "git",
+          "langchain",
+          "mlops",
+          "nlp",
+          "python",
+          "pytorch",
+          "rag",
+          "rest api",
+          "scikit-learn",
+          "sql",
+          "transformers",
+          "vector database"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "arjun_menon.docx",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.8468,
+          "semantic": 0.6052,
+          "experience": 0.875,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.8146,
+        "matched_required": [
+          "docker",
+          "git",
+          "nlp",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [
+          "machine learning"
+        ],
+        "matched_preferred": [
+          "aws",
+          "mlops",
+          "rag",
+          "vector database"
+        ],
+        "required_coverage": 0.8889,
+        "reasoning": "Matched 8/9 required skills (missing: machine learning); 4/6 preferred skills; 5y experience vs 3y required; semantic similarity to JD 0.61.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 4,
+      "recommendation": "Strong match - interview",
+      "profile": {
+        "candidate_id": "C007",
+        "name": "Meera Nair",
+        "email": "meera.nair@email.com",
+        "phone": "+91 90030 77812",
+        "years_experience": 4.0,
+        "degree_level": 2,
+        "degree_field": "Artificial Intelligence And Data Science",
+        "skills": [
+          "data visualization",
+          "docker",
+          "git",
+          "linux",
+          "machine learning",
+          "nlp",
+          "pandas",
+          "python",
+          "pytorch",
+          "rest api",
+          "scikit-learn",
+          "sql",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "meera_nair.txt",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.8108,
+          "semantic": 0.6952,
+          "experience": 0.8125,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.8063,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [],
+        "matched_preferred": [],
+        "required_coverage": 1.0,
+        "reasoning": "Matched 9/9 required skills (all present); 0/6 preferred skills; 4y experience vs 3y required; semantic similarity to JD 0.70.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 5,
+      "recommendation": "Strong match - interview",
+      "profile": {
+        "candidate_id": "C003",
+        "name": "Daniel Okafor",
+        "email": "daniel.okafor@email.com",
+        "phone": "+234 802 555 1199",
+        "years_experience": 7.0,
+        "degree_level": 2,
+        "degree_field": "Computer Science",
+        "skills": [
+          "airflow",
+          "aws",
+          "ci/cd",
+          "docker",
+          "git",
+          "kubernetes",
+          "linux",
+          "machine learning",
+          "mlops",
+          "python",
+          "pytorch",
+          "rest api",
+          "spark",
+          "sql"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "daniel_okafor.docx",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.7568,
+          "semantic": 0.5177,
+          "experience": 1.0,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.7864,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql"
+        ],
+        "missing_required": [
+          "nlp",
+          "transformers"
+        ],
+        "matched_preferred": [
+          "aws",
+          "kubernetes",
+          "mlops",
+          "spark"
+        ],
+        "required_coverage": 0.7778,
+        "reasoning": "Matched 7/9 required skills (missing: nlp, transformers); 4/6 preferred skills; 7y experience vs 3y required; semantic similarity to JD 0.52.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 6,
+      "recommendation": "Shortlist - phone screen",
+      "profile": {
+        "candidate_id": "C005",
+        "name": "Fatima Sheikh",
+        "email": "fatima.sheikh@email.com",
+        "phone": "+92 300 1234567",
+        "years_experience": 5.0,
+        "degree_level": 3,
+        "degree_field": "Electrical Engineering",
+        "skills": [
+          "airflow",
+          "aws",
+          "computer vision",
+          "deep learning",
+          "docker",
+          "git",
+          "linux",
+          "machine learning",
+          "pandas",
+          "python",
+          "pytorch",
+          "rest api",
+          "scikit-learn",
+          "sql",
+          "tensorflow"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "fatima_sheikh.txt",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.6622,
+          "semantic": 0.4627,
+          "experience": 0.875,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.7051,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql"
+        ],
+        "missing_required": [
+          "nlp",
+          "transformers"
+        ],
+        "matched_preferred": [
+          "aws"
+        ],
+        "required_coverage": 0.7778,
+        "reasoning": "Matched 7/9 required skills (missing: nlp, transformers); 1/6 preferred skills; 5y experience vs 3y required; semantic similarity to JD 0.46.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 7,
+      "recommendation": "Shortlist - phone screen",
+      "profile": {
+        "candidate_id": "C014",
+        "name": "Wei Zhang",
+        "email": "wei.zhang@email.com",
+        "phone": "+65 8123 4567",
+        "years_experience": 7.0,
+        "degree_level": 4,
+        "degree_field": "Linguistics",
+        "skills": [
+          "deep learning",
+          "git",
+          "linux",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "sql",
+          "statistics",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "wei_zhang.pdf",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.6306,
+          "semantic": 0.3473,
+          "experience": 1.0,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.6943,
+        "matched_required": [
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [
+          "docker",
+          "rest api"
+        ],
+        "matched_preferred": [],
+        "required_coverage": 0.7778,
+        "reasoning": "Matched 7/9 required skills (missing: docker, rest api); 0/6 preferred skills; 7y experience vs 3y required; semantic similarity to JD 0.35.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 8,
+      "recommendation": "Shortlist - phone screen",
+      "profile": {
+        "candidate_id": "C013",
+        "name": "Vikram Desai",
+        "email": "vikram.desai@email.com",
+        "phone": "+91 99250 66778",
+        "years_experience": 5.0,
+        "degree_level": 2,
+        "degree_field": "Computer Engineering",
+        "skills": [
+          "aws",
+          "ci/cd",
+          "docker",
+          "git",
+          "java",
+          "javascript",
+          "linux",
+          "machine learning",
+          "python",
+          "rest api",
+          "sql",
+          "testing",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "vikram_desai.docx",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.6622,
+          "semantic": 0.2999,
+          "experience": 0.875,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.6668,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "python",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [
+          "nlp",
+          "pytorch"
+        ],
+        "matched_preferred": [
+          "aws"
+        ],
+        "required_coverage": 0.7778,
+        "reasoning": "Matched 7/9 required skills (missing: nlp, pytorch); 1/6 preferred skills; 5y experience vs 3y required; semantic similarity to JD 0.30.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 9,
+      "recommendation": "Shortlist - phone screen",
+      "profile": {
+        "candidate_id": "C009",
+        "name": "K GIREESH",
+        "email": "kudatinigireesh@gmail.com",
+        "phone": "+91 8147133468",
+        "years_experience": 4.0,
+        "degree_level": 2,
+        "degree_field": "Technolog",
+        "skills": [
+          "computer vision",
+          "data visualization",
+          "deep learning",
+          "git",
+          "machine learning",
+          "mlops",
+          "pandas",
+          "python",
+          "pytorch",
+          "scikit-learn",
+          "sql",
+          "statistics",
+          "tensorflow",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "resume (1).pdf",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.5721,
+          "semantic": 0.4897,
+          "experience": 0.8125,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.6596,
+        "matched_required": [
+          "git",
+          "machine learning",
+          "python",
+          "pytorch",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [
+          "docker",
+          "nlp",
+          "rest api"
+        ],
+        "matched_preferred": [
+          "mlops"
+        ],
+        "required_coverage": 0.6667,
+        "reasoning": "Matched 6/9 required skills (missing: docker, nlp, rest api); 1/6 preferred skills; 4y experience vs 3y required; semantic similarity to JD 0.49.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 10,
+      "recommendation": "Shortlist - phone screen",
+      "profile": {
+        "candidate_id": "C001",
+        "name": "Ananya Iyer",
+        "email": "ananya.iyer@email.com",
+        "phone": "+91 98940 22110",
+        "years_experience": 1.0,
+        "degree_level": 2,
+        "degree_field": "Computer Science",
+        "skills": [
+          "data visualization",
+          "deep learning",
+          "docker",
+          "git",
+          "linux",
+          "machine learning",
+          "nlp",
+          "pandas",
+          "python",
+          "pytorch",
+          "rest api",
+          "scikit-learn",
+          "sql",
+          "transformers"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "ananya_iyer.pdf",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.8108,
+          "semantic": 0.596,
+          "experience": 0.25,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.6506,
+        "matched_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "missing_required": [],
+        "matched_preferred": [],
+        "required_coverage": 1.0,
+        "reasoning": "Matched 9/9 required skills (all present); 0/6 preferred skills; 1y experience vs 3y required; semantic similarity to JD 0.60.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 11,
+      "recommendation": "Reject - missing core requirements",
+      "profile": {
+        "candidate_id": "C006",
+        "name": "Karthik Reddy",
+        "email": "karthik.reddy@email.com",
+        "phone": "+91 94900 33221",
+        "years_experience": 6.0,
+        "degree_level": 2,
+        "degree_field": "Computer Science",
+        "skills": [
+          "airflow",
+          "aws",
+          "docker",
+          "git",
+          "kubernetes",
+          "linux",
+          "nosql",
+          "python",
+          "scala",
+          "spark",
+          "sql"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "karthik_reddy.txt",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.455,
+          "semantic": 0.334,
+          "experience": 0.9375,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.6042,
+        "matched_required": [
+          "docker",
+          "git",
+          "python",
+          "sql"
+        ],
+        "missing_required": [
+          "machine learning",
+          "nlp",
+          "pytorch",
+          "rest api",
+          "transformers"
+        ],
+        "matched_preferred": [
+          "aws",
+          "kubernetes",
+          "spark"
+        ],
+        "required_coverage": 0.4444,
+        "reasoning": "Matched 4/9 required skills (missing: machine learning, nlp, pytorch, rest api, transformers); 3/6 preferred skills; 6y experience vs 3y required; semantic similarity to JD 0.33.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 12,
+      "recommendation": "Reject - missing core requirements",
+      "profile": {
+        "candidate_id": "C010",
+        "name": "Rohit Sharma",
+        "email": "rohit.sharma@email.com",
+        "phone": "+91 98110 99887",
+        "years_experience": 7.0,
+        "degree_level": 2,
+        "degree_field": "Information Technology",
+        "skills": [
+          "agile",
+          "ci/cd",
+          "docker",
+          "git",
+          "java",
+          "kubernetes",
+          "linux",
+          "rest api",
+          "sql"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "rohit_sharma.txt",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.3919,
+          "semantic": 0.3171,
+          "experience": 1.0,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.5889,
+        "matched_required": [
+          "docker",
+          "git",
+          "rest api",
+          "sql"
+        ],
+        "missing_required": [
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "transformers"
+        ],
+        "matched_preferred": [
+          "kubernetes"
+        ],
+        "required_coverage": 0.4444,
+        "reasoning": "Matched 4/9 required skills (missing: machine learning, nlp, python, pytorch, transformers); 1/6 preferred skills; 7y experience vs 3y required; semantic similarity to JD 0.32.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 13,
+      "recommendation": "Reject - missing core requirements",
+      "profile": {
+        "candidate_id": "C012",
+        "name": "Sneha Kulkarni",
+        "email": "sneha.kulkarni@email.com",
+        "phone": "+91 98200 44556",
+        "years_experience": 6.0,
+        "degree_level": 3,
+        "degree_field": "Statistics",
+        "skills": [
+          "data visualization",
+          "excel",
+          "git",
+          "machine learning",
+          "pandas",
+          "python",
+          "scikit-learn",
+          "sql",
+          "statistics",
+          "time series"
+        ],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "sneha_kulkarni.docx",
+        "warnings": []
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.3604,
+          "semantic": 0.2861,
+          "experience": 0.9375,
+          "education": 1.0
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.554,
+        "matched_required": [
+          "git",
+          "machine learning",
+          "python",
+          "sql"
+        ],
+        "missing_required": [
+          "docker",
+          "nlp",
+          "pytorch",
+          "rest api",
+          "transformers"
+        ],
+        "matched_preferred": [],
+        "required_coverage": 0.4444,
+        "reasoning": "Matched 4/9 required skills (missing: docker, nlp, pytorch, rest api, transformers); 0/6 preferred skills; 6y experience vs 3y required; semantic similarity to JD 0.29.",
+        "llm_used": false
+      }
+    },
+    {
+      "rank": 14,
+      "recommendation": "Reject - missing core requirements",
+      "profile": {
+        "candidate_id": "C011",
+        "name": "Unknown",
+        "email": null,
+        "phone": null,
+        "years_experience": 0.0,
+        "degree_level": 0,
+        "degree_field": null,
+        "skills": [],
+        "job_titles": [],
+        "companies": [],
+        "source_file": "scanned_unreadable.pdf",
+        "warnings": [
+          "no extractable text - likely a scanned image PDF; OCR is not implemented (see docs/TRADEOFFS.md)"
+        ]
+      },
+      "score": {
+        "components": {
+          "skill_coverage": 0.0,
+          "semantic": 0.0,
+          "experience": 0.0,
+          "education": 0.2
+        },
+        "weights_used": {
+          "skill_coverage": 0.4118,
+          "semantic": 0.2353,
+          "experience": 0.2353,
+          "education": 0.1176
+        },
+        "final_score": 0.0235,
+        "matched_required": [],
+        "missing_required": [
+          "docker",
+          "git",
+          "machine learning",
+          "nlp",
+          "python",
+          "pytorch",
+          "rest api",
+          "sql",
+          "transformers"
+        ],
+        "matched_preferred": [],
+        "required_coverage": 0.0,
+        "reasoning": "Matched 0/9 required skills (missing: docker, git, machine learning, nlp, python, pytorch, rest api, sql, transformers); 0/6 preferred skills; 0y experience vs 3y required; semantic similarity to JD 0.00.",
+        "llm_used": false
+      }
+    }
+  ]
+}

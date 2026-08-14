@@ -1,0 +1,26 @@
+Karthik Reddy
+Hyderabad, India | karthik.reddy@email.com | +91 94900 33221
+
+SUMMARY
+Data engineer with 6 years of experience building batch and streaming data
+platforms.
+
+EXPERIENCE
+
+Senior Data Engineer, Deccan Data Works
+2021 - Present
+- Built and operated Spark pipelines processing 5TB/day on Databricks.
+- Orchestrated 200+ Airflow DAGs; owns the data quality framework.
+- Modelled the warehouse in Snowflake; extensive SQL and dbt.
+- Kafka streaming ingestion; Docker and Kubernetes for pipeline services.
+
+Data Engineer, Vindhya Systems
+2020 - 2021
+- ETL from Postgres and MongoDB into the analytics warehouse.
+
+EDUCATION
+B.Tech in Computer Science, JNTU Hyderabad, 2020
+
+SKILLS
+Python, Scala, Spark, PySpark, Databricks, Airflow, Kafka, SQL, Snowflake,
+Postgres, MongoDB, dbt, Docker, Kubernetes, AWS S3 and EMR, Git, Linux

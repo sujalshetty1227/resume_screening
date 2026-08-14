@@ -1,0 +1,29 @@
+Fatima Sheikh
+Karachi, Pakistan | fatima.sheikh@email.com | +92 300 1234567
+
+SUMMARY
+Computer vision engineer, 5 years, shipping deep learning models for
+industrial inspection and medical imaging.
+
+EXPERIENCE
+
+Senior Computer Vision Engineer, Indus Vision Technologies
+2022 - Present
+- Trained and deployed object detection and segmentation models in PyTorch
+  (YOLOv8, U-Net) for defect detection on production lines.
+- Optimised inference with TensorRT and ONNX; 6x latency improvement.
+- Containerised the full inference stack with Docker; deployed on edge devices
+  and on AWS EC2 GPU instances behind a REST API.
+- Built annotation tooling and data pipelines; SQL over Postgres.
+
+Machine Learning Engineer, Meraj Diagnostics
+2021 - 2022
+- Image classification for radiology triage; scikit-learn and PyTorch.
+
+EDUCATION
+M.S. in Electrical Engineering, NUST Islamabad, 2021
+B.E. in Electronics, NED University, 2019
+
+SKILLS
+Python, PyTorch, OpenCV, computer vision, deep learning, TensorFlow, ONNX,
+Docker, AWS EC2, REST API, FastAPI, SQL, Git, Linux, NumPy, pandas

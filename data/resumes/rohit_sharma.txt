@@ -1,0 +1,25 @@
+Rohit Sharma
+Noida, India | rohit.sharma@email.com | +91 98110 99887
+
+SUMMARY
+Backend engineer with 7 years of experience in enterprise Java systems.
+
+EXPERIENCE
+
+Technical Lead, Aravalli Enterprise Solutions
+2021 - Present
+- Leads a team of five building Spring Boot microservices for insurance
+  claims processing.
+- Oracle and Postgres database design; complex SQL and stored procedures.
+- Migrated the monolith to Kubernetes; Docker, Jenkins CI/CD.
+
+Senior Software Engineer, Yamuna Infotech
+2019 - 2021
+- Java, Spring, Hibernate; REST API development; JUnit testing.
+
+EDUCATION
+B.Tech in Information Technology, Amity University, 2019
+
+SKILLS
+Java, Spring Boot, Hibernate, Maven, REST API, Oracle, Postgres, SQL,
+Kubernetes, Docker, Jenkins, Git, Linux, Agile, JIRA

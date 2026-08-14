@@ -1,0 +1,31 @@
+Meera Nair
+Chennai, India | meera.nair@email.com | +91 90030 77812
+
+OBJECTIVE
+NLP engineer with 3 years of hands-on experience looking to work on applied
+language systems at scale.
+
+EXPERIENCE
+
+Machine Learning Engineer,Avartan Labs
+2023 - Present
+- Fine-tuned transformer models (BERT, RoBERTa) in PyTorch for legal document
+  classification across seven document types.
+- Built a named entity recognition pipeline for contract clause extraction.
+- Deployed models with Docker and Flask; wrote the REST API layer.
+- Queried and shaped training data with SQL on a Postgres warehouse.
+
+Data Science Intern, Avartan Labs
+2022 - 2023
+- Exploratory analysis and baseline models with scikit-learn and pandas.
+
+PROJECTS
+- Open-source Tamil text normalisation library, 300+ GitHub stars.
+- Kaggle: top 8% in a toxic comment classification competition.
+
+EDUCATION
+B.Tech in Artificial Intelligence and Data Science, Anna University, 2022
+
+SKILLS
+Python, PyTorch, Transformers, HuggingFace, NLP, NER, scikit-learn, pandas,
+NumPy, SQL, Postgres, Docker, Flask, Git, Linux, matplotlib

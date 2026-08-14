@@ -1,0 +1,10 @@
+# Core (required)
+numpy==2.2.6            # vector math for the TF-IDF / cosine implementation
+pandas==2.3.3           # CSV assembly for the ranked output
+pypdf==6.13.1           # PDF text extraction
+python-docx==1.2.0      # DOCX text extraction
+requests==2.32.3        # LLM HTTP calls (no vendor SDK lock-in)
+python-dotenv==1.0.1    # loads .env so API keys never live in code
+
+# Dev only (used to generate the sample resume corpus; not needed to run the agent)
+reportlab==4.5.1
